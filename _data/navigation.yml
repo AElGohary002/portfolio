@@ -5,10 +5,10 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about
+    url: /#about
   - title: "Experience"
-    url: /experience
+    url: /#experience
   - title: "Projects"
-    url: /projects
+    url: /#projects
   - title: "Education"
-    url: /education
+    url: /#education
