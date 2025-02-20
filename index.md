@@ -6,15 +6,17 @@ permalink: /
 ---
 
 <section id="about">
-## 👋 About Me {#about}
+
+## 👋 About Me  
 I’m a **Data Scientist & Software Engineer** passionate about Machine Learning, NLP, and Process Optimization.
+
 </section>
 
 ---
 
 <section id="projects">
 
-## 🛠 Projects {#projects}
+## 🛠 Projects 
 
 ### Dive Site Recommender
 A tool to help scuba divers find the best dive spots by criteria.
@@ -33,7 +35,9 @@ Parses resumes and recommends jobs based on skills.
 ---
 
 <section id="contact">
+
 ## 📞 Contact Me {#contact}
 - Email: **your.email@example.com**
 - GitHub: [github.com/yourusername](https://github.com/yourusername)
+
 </section>
