@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Welcome to My Portfolio"
+author_profile: true
 permalink: /
 ---
 
