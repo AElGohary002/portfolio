@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Welcome to My Portfolio"
 permalink: /
 ---
