@@ -6,7 +6,7 @@ permalink: /
 ---
 
 ## 👋 About Me {#about}
-I’m a **Data Scientist & Software Engineer** passionate about Machine Learning, NLP, and Process Optimization.
+Template
 
 ---
 
