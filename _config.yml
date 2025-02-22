@@ -119,9 +119,6 @@ author:
   location         : "Sheffield, UK"
   email            :
   links:
-    - label: "Download Resume"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "/docs/_resume/Ali_El_Gohary_CV.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:alielgohary002@gmail.com"
@@ -131,6 +128,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AElGohary002"
+    - label: "Download Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/docs/_resume/Ali_El_Gohary_CV.pdf"
 
 # Site Footer
 footer:
