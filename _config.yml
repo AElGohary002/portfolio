@@ -130,6 +130,7 @@ author:
       url: "https://github.com/AElGohary002"
     - label: '<span style="display: flex; align-items: center;"><i class="fas fa-file-pdf" style="margin-right: 5px;"></i> Download Resume</span>'
       url: "https://aelgohary002.github.io/portfolio/assets/files/resume.pdf"
+      nofollow: true
 
 
 
