@@ -131,6 +131,7 @@ author:
     - label: "Download Resume"
       icon: "fas fa-fw fa-file-pdf"
       url: "/portfolio/assets/files/resume.pdf"
+      target: "_blank"
 
 # Site Footer
 footer:
