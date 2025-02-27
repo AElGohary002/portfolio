@@ -128,10 +128,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AElGohary002"
-    - label: "Download Resume"
+    - label: '<a href="https://aelgohary002.github.io/portfolio/assets/files/resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>'
       icon: "fas fa-fw fa-file-pdf"
-      url: "/portfolio/assets/files/resume.pdf"
-      target: "_blank"
+      url: "#"
+
 
 # Site Footer
 footer:
