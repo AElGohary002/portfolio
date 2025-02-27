@@ -128,9 +128,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AElGohary002"
-    - label: '<a href="https://aelgohary002.github.io/portfolio/assets/files/resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>'
-      icon: "fas fa-fw fa-file-pdf"
-      url: "#"
+    - label: '<span style="display: flex; align-items: center;"><i class="fas fa-file-pdf" style="margin-right: 5px;"></i> Download Resume</span>'
+      url: "https://aelgohary002.github.io/portfolio/assets/files/resume.pdf"
+
 
 
 # Site Footer
