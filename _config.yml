@@ -130,7 +130,7 @@ author:
       url: "https://github.com/AElGohary002"
     - label: "Download Resume"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/resume.pdf"
+      url: "/portfolio/assets/files/resume.pdf"
 
 # Site Footer
 footer:
