@@ -58,5 +58,5 @@ Parses resumes and recommends jobs based on skills.
 ---
 
 ## 📞 Contact Me {#contact}
-- Email: **alielgohary002@gmail.com*
+- Email: **alielgohary002@gmail.com**
 - GitHub: [github.com/yourusername](https://github.com/AElGohary002)
