@@ -47,7 +47,14 @@ Parses resumes and recommends jobs based on skills.
 
 ## 🛠 Experience {#experience}
 
-### Data Analyst / Data Scientist - Intel Corporation
+### Data Analyst / Data Scientist - Intel Corporation  
+
+    • Delivered end-to-end data-driven solutions, including applications, automations, and ML models, tailored to
+business needs for both internal and external stakeholders.
+    • Coordinated the implementation of an internal GPT-powered chat bot, improving user support and operational
+efficiency, saving ~3000 hours annually across EMEA and AMR.
+    • Collaborated with stakeholders in accordance with the agile software development methodology, including
+requirements gathering, adhering to best coding practices, and ensuring robust post-launch maintenance.
 
 ### GCSE Physics Tutor - MyTutor
 

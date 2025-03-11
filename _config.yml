@@ -115,7 +115,9 @@ analytics:
 author:
   name             : "Ali El Gohary"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "HI"
+  bio              : "Hi! I'm Ali, a Software Engineering Masters student currently studying at the University of Sheffield specialisiing
+                      in Data Science and Machine Learning. During my time at university, I have been able to acquire different skills, 
+                      experiences, and implement projects that expand my skillset within this field!"
   location         : "Sheffield, UK"
   email            :
   links:
