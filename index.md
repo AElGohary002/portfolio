@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Welcome to My Portfolio"
+title: "Ali El Gohary Portfolio"
 author_profile: true
 permalink: /
 ---
 
 ## 👋 About Me {#about}
-Template
+TTBC
 
 ---
 
@@ -58,11 +58,31 @@ efficiency, saving ~3000 hours annually across EMEA and AMR.
 - Collaborated with stakeholders in accordance with the agile software development methodology, including
 requirements gathering, adhering to best coding practices, and ensuring robust post-launch maintenance.
 
+- Utilised SQL to identify and analyse KPIs, translating data insights into actionable business requirements,
+aligning them with strategic objectives.
+
+- Maintained data integrity by managing databases and resolving over 100 user-reported issues.
+
+- Developed PowerBI dashboards for revenue, employee, and hiring data to support informed business decisions
+for over 10 sales teams.
+
 ### GCSE Physics Tutor - MyTutor
+
+- Provided personalized physics tutoring to 5 GCSE students, addressing individual academic challenges via tailored
+techniques to match each student’s learning style, assuring improved comprehension. Resulting in an average of a
+20% increase across cohort through scheduling and planning sessions, and preparing presentations.
 
 ### Software Developer - Enactus Sheffield 
 
+- Maintaining data security, designing and maintaining project websites, managing website operations, and
+conducting research to identify optimal hosting solutions and data protection strategies. Developed web
+application for ongoing projects resulting in a 47% traffic increase to website.
+
 ### Project Management Intern - Siemens Egypt
+
+- Engaged with sales and technical teams in planning and executing generator service projects, reducing operational
+costs by 9% over a quarter while monitoring project progress through KPI tracking and project management tools
+like Jira, guaranteeing 80% on time completion of deliverables and adherence to scope across 4 project
 
 ---
 
