@@ -1,12 +1,12 @@
-.site-nav {
+.masthead {
     position: fixed;
     top: 0;
     width: 100%;
-    background: var(--mm-primary-background);
     z-index: 1000;
+    background: var(--mm-primary-background, #ffffff);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.site-header {
-    padding-top: 60px; /* Prevents content from hiding under the navbar */
+.site-content {
+    margin-top: 70px;
 }
