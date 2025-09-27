@@ -41,7 +41,7 @@ A simple interface where a user can input a city name and is displayed with the 
 Parses resumes and recommends jobs based on skills.
 
 - **Tech:** NLP, ML, Python  
-- [GitHub Repo](https://github.com/yourusername/cv-analyzer)
+- [GitHub Repo](https://github.com/AElGohary002/cv-analyzer)
 
 ---
 
@@ -88,4 +88,4 @@ like Jira, guaranteeing 80% on time completion of deliverables and adherence to 
 
 ## 📞 Contact Me {#contact}
 - Email: **alielgohary002@gmail.com**
-- GitHub: [github.com/yourusername](https://github.com/AElGohary002)
+- GitHub: [github.com/AElGohary002](https://github.com/AElGohary002)
