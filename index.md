@@ -6,7 +6,7 @@ permalink: /
 ---
 
 ## 👋 About Me {#about}
-TTBC
+Data Scientist and Software Engineer (MEng, First-Class) with experience delivering end-to-end AI and data-driven solutions. Proven ability to develop machine learning models and applications that drive efficiency and save thousands of operational hours.
 
 ---
 
